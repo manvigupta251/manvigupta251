@@ -46,16 +46,10 @@ I enjoy learning new technologies and applying them in creative and practical wa
   </ul>
 </div>
 
-### Connect With Me:
-<ul align="center">
- 
-[![Linkedin Badge] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manvi-gupta-649111221/) 
-[![Mail Badge] (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mg.future2021@gmail.com)
-</ul>
 
 <!--icons and links-->
-<!--<p align="center">
-<a href="https://www.linkedin.com/in/manvi-gupta-649111221/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>-->
+<p align="center">
+<a href="https://www.linkedin.com/in/manvi-gupta-649111221/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
 
 
